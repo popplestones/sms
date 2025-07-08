@@ -44,11 +44,9 @@ export TWILIO_FROM_NUMBER=+614xxxxxxxx
 
 ```bash
 export SMS_PROVIDER=fivecent
-export 5_CENT_SMS_USERNAME=your_username
-export 5_CENT_SMS_API_KEY=your_key
-export 5_CENT_SMS_FROM=YourSenderID
-export 5_CENT_SMS_BASE_URL=https://www.5centsms.com.au/api/v4/sms  # optional
-export 5_CENT_SMS_TEST_MODE=true  # optional
+export FIVE_CENT_USERNAME=your_username
+export FIVE_CENT_API_KEY=your_key
+export FIVE_CENT_FROM_NUMBER=your_sender_id
 ```
 
 ## 🧪 Example
