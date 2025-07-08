@@ -1,4 +1,4 @@
-# sms-cli
+# sms
 
 A command-line tool for sending SMS messages using providers like Twilio or 5CentSMS. It reads phone numbers from `stdin`, opens Neovim (or your `$EDITOR`) to compose a message, and sends the SMS upon saving and exiting.
 
